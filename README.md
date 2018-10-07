@@ -4,7 +4,7 @@
 	<head>
 		<title>BIODATA AZIZ</title>
 	</head>
-		<b> SELAMAT DATANG DI BIODATAKU </br> </font></p></div></h1>
+		<b> SELAMAT DATANG DI BIODATAKU 
 
 		
 		Nama 		: Dwi Nurokhman A <br>
@@ -15,7 +15,4 @@
 		Motto		: jangan menyerah hanya dengan satu kegagalan<br>
 		Email		: Nurokhmanaziz1998@gmail.com<br>
 		Instagram	: Nurokhmanaziz98
-	</body>
-</html>
 
-</html>
