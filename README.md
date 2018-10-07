@@ -7,6 +7,8 @@
 		<b> SELAMAT DATANG DI BIODATAKU 
 
 		
+		
+		
 		Nama 		: Dwi Nurokhman A <br>
 		Tempat Lahir	: Awal Terusan <br>
 		Tanggal Lahir	: 24 Juli 1998 <br> 
