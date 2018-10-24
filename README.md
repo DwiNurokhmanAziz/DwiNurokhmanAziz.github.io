@@ -1,20 +1,20 @@
 # DwiNurokhmanAziz.github.io
 
-<html>
-	<head>
-		<title>BIODATA AZIZ</title>
-	</head>
-		<b> SELAMAT DATANG DI BIODATAKU 
-
-		
-		
-		
-		Nama 		: Dwi Nurokhman A <br>
-		Tempat Lahir	: Awal Terusan <br>
-		Tanggal Lahir	: 24 Juli 1998 <br> 
-		Alamat		: Dusun IV Awal Tersan, sirahpulau padang, ogan komering ilir<br>
-		Hobi		: traveler <br>
-		Motto		: jangan menyerah hanya dengan satu kegagalan<br>
-		Email		: Nurokhmanaziz1998@gmail.com<br>
-		Instagram	: Nurokhmanaziz98
-
+# a710160074.github.io
+ <html>
+ <body>
+ <fieldset class="h"/>
+ <table style="width: 980px;">
+ <hr /><hr /><marquee loop="5"><font face="Arial"><font size="5"><b>Biodata Mahasiswa<br />Universitas Muhammaddiyah Surakarta</b></font></font></marquee>
+ <center><font face="times new romen"><font size="6">Pendidikan Teknik Informatika</font></font></center>
+ <img src="1.jpg" style="width:400x;height:300px;">
+ <hr /><hr /><tr><td><b><p><h3><li>Nama Lengkap : Dwi Nurokhman Aziz
+ <tr><td><b><p><li>Nama Panggilan :Aziz
+ <tr><td><b><p><li>Tempat, Tanggal Lahir : Awal Terusan, 24 Juli 1998
+ <tr><td><b><p><li>Umur : 20 Tahun
+ <tr><td><b><p><li>Jenis Kelamin : Laki - Laki
+ <tr><td><b><p><li>Gol. Darah : AB
+ <tr><td><b><p><li>Agama : Islam
+ <tr><td><b><p><li>Alamat : Gatak RW02/RW02 PABELAN, KARTASURA, SUKOHARJO
+ <tr><td><b><p><li>Pekerjaan : Mahasiswa
+ <tr><td><b><p><li>Hobby : Basket
